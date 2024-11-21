@@ -25,7 +25,7 @@
 <h3>Steps to Run</h3>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/MovieManagerAPI.git</code></pre>
+    <pre><code>git clone https://github.com/chisa-sifiso/MovieManagerAPI.git</code></pre>
   </li>
   <li>Open the project in IntelliJ IDEA.</li>
   <li>Run the application.</li>
